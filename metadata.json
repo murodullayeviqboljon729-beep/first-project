@@ -1,0 +1,6 @@
+{
+  "name": "Zamonaviy Online Do'kon",
+  "description": "Zamonaviy dizaynga ega to'liq funksiyali elektron tijorat onlayn do'koni. Mahsulotlar katalogi, filtrlar, savatcha, buyurtma berish, sevimlilar bo'limi hamda admin paneli va tovarlarni boshqarish tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
